@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+*{
+  margin: 0;
+
+}
+.cool{
+  justify-content: center;
+  align-items: center;
+  color:#61dafb;
+  font-weight: bold;
+  border: 3px solid red;
+  border-radius:3rem ;
+  padding: 10px;
+  margin-top: 25px;
+  
+
+}
